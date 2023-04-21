@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Caroline-Teixeira](https://github.com/Caroline-Teixeira)
 
-- 📫 How to reach me **caroline.francielli@hotmail.com**
+- 📫 How to reach me **Email: caroline.francielli@hotmail.com** or **Discord: Caroline.F.Teixeira#0184**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/caroline-francieli-teixeira-05a56b266/](https://www.linkedin.com/in/caroline-francieli-teixeira-05a56b266/)
 
