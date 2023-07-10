@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **"Projeto NetWorks"**
 
-- 🌱 I’m currently learning **HTML, CSS, Python, Linux**
+- 🌱 I’m currently learning **HTML, CSS, Python, Linux and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Caroline-Teixeira](https://github.com/Caroline-Teixeira)
 
