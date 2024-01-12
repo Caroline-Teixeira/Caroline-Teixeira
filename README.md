@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caroline-teixeira&show_icons=true&locale=en" alt="caroline-teixeira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caroline-teixeira&" alt="caroline-teixeira" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caroline-teixeira&" /></p>-->
 
 <!--SOCIAL-->
 <h3 align="left">Connect with me:</h3>
