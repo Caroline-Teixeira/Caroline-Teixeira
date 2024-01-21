@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="caroline-teixeira" /> </p>
 
-- 🔭 I’m currently working on **"Projeto NetWorks"**
+- 🔭 I’m currently working on **"PSW 9.0 / Imersão Front-end"**
 
 - 🌱 I’m currently learning **HTML, CSS, Python, Linux, Java and SQL**
 
