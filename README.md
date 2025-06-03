@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://linktr.ee/chiharu.chin](https://github.com/Caroline-Teixeira">Github</a>
+- 👨‍💻 All of my projects are available at **<a href="https://linktr.ee/chiharu.chin](https://github.com/Caroline-Teixeira">Github</a>**
 
 - ⚡ Interesting fact: **I am a geek: I love sci-fi, animes and games. And I love drawing. You can check my fanart here: <a href="https://linktr.ee/chiharu.chin">Link</a>** 
 
