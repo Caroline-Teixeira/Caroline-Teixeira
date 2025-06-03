@@ -16,8 +16,7 @@
 
 
 <!--STATS-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caroline-teixeira&show_icons=true&locale=en&layout=compact" alt="caroline-teixeira" /></p>
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caroline-Teixeira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caroline-teixeira&show_icons=true&locale=en" alt="caroline-teixeira" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caroline-teixeira&" /></p>-->
