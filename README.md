@@ -16,6 +16,7 @@
   <br>
 
 <!--STATS-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caroline-teixeira&show_icons=true&locale=en" alt="caroline-teixeira" /></p>
 
