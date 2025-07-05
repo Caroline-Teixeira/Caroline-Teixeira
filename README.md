@@ -13,10 +13,10 @@
 - 👨‍💻 All of my projects are available at **<a href="https://linktr.ee/chiharu.chin](https://github.com/Caroline-Teixeira">Github</a>**
 
 - ⚡ Interesting fact: **I am a geek: I love sci-fi, animes and games. And I love drawing. You can check my fanart here: <a href="https://linktr.ee/chiharu.chin">Link</a>** 
-
+  <br>
 
 <!--STATS-->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caroline-Teixeira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caroline-teixeira&show_icons=true&locale=en" alt="caroline-teixeira" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caroline-teixeira&" /></p>-->
