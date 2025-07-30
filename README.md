@@ -1,6 +1,6 @@
 ###
 <h1 align="center">Hi 👋, I'm Caroline</h1>
-<h3 align="center">A curious student of back-end, front-end and programming.</h3>
+<h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="caroline-teixeira" /> </p>
 
