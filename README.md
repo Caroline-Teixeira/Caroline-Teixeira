@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **small Java Projects and building my portfolio at <a href="https://www.dio.me">DIO</a>**
 
-- 🌱 I’m currently learning **Google Data Analytics Professional Certificate at <a href="https://www.coursera.org/google-certificates/data-analytics-certificate">Coursera</a>**
+- 🌱 I’m currently learning **Google Data Analytics Professional Certificate at <a href="https://www.coursera.org/google-certificates/data-analytics-certificate">Coursera</a> and studying E-gov**
 
 - 👯 I’m looking to collaborate on **any projects**
 
