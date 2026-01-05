@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **small Java Projects and building my portfolio at <a href="https://www.dio.me">DIO</a>**
 
-- 🌱 I’m currently learning **Google Data Analytics Professional Certificate at <a href="https://www.coursera.org/google-certificates/data-analytics-certificate">Coursera</a> and studying E-gov**
+- 🌱 I’m currently learning **Google Data Analytics Professional Certificate at <a href="https://www.coursera.org/google-certificates/data-analytics-certificate">Coursera</a> and studying E-gov at Unicentro University**
 
 - 👯 I’m looking to collaborate on **any projects**
 
@@ -58,6 +58,8 @@
 
 
 <!--
+Test with Linux
+
 **Caroline-Teixeira/Caroline-Teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
