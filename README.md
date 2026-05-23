@@ -16,7 +16,7 @@
   <br>
 
 <!--STATS-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Teixeira"/> <!--Languages-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-Teixeira&theme=dark&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caroline-teixeira&show_icons=true&locale=en" alt="caroline-teixeira" /></p>
 
