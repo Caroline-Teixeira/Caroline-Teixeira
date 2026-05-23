@@ -1,18 +1,18 @@
 ###
 <h1 align="center">Hi 👋, I'm Caroline</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Programming and Robotics Instructor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="caroline-teixeira" /> </p>
 
-- 🔭 I’m currently working on **small Java Projects and building my portfolio at <a href="https://www.dio.me">DIO</a>**
+- 🔭 I’m currently working at **Ctrl+Play Almirante Tamandaré and I am a Technical Resident in Digital Transformation**
 
-- 🌱 I’m currently learning **Google Data Analytics Professional Certificate at <a href="https://www.coursera.org/google-certificates/data-analytics-certificate">Coursera</a> and studying E-gov at Unicentro University**
+- 🌱 I’m currently learning **Digital Transformation at the RESTEC INTEGRE program, executed by UNICENTRO in partnership with the Government of Paraná, at the Escola de Gestão do Paraná (EGP/SEAP-PR), contributing to public innovation, digital transformation, and E-Gov initiatives.**
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at **<a href="https://linktr.ee/chiharu.chin](https://github.com/Caroline-Teixeira">Github</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://github.com/Caroline-Teixeira">Github</a>**
 
-- ⚡ Interesting fact: **I am a geek: I love sci-fi, animes and games. And I love drawing. You can check my fanart here: <a href="https://linktr.ee/chiharu.chin">Link</a>** 
+- ⚡ Interesting fact: **I am a geek: I love sci-fi, animes and games. And I love drawing.** 
   <br>
 
 <!--STATS-->
