@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="caroline-teixeira" /> </p>
 
-- 🔭 I’m currently working at **Ctrl+Play Almirante Tamandaré and I am a Technical Resident in Digital Transformation**
+- 🔭 I’m currently working at **Ctrl+Play Almirante Tamandaré and I'm a Technical Resident in Digital Transformation**
 
 - 🌱 I’m currently learning **Digital Transformation at the RESTEC INTEGRE program, executed by UNICENTRO in partnership with the Government of Paraná, at the Escola de Gestão do Paraná (EGP/SEAP-PR), contributing to public innovation, digital transformation, and E-Gov initiatives.**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **<a href="https://github.com/Caroline-Teixeira">Github</a>**
 
-- ⚡ Interesting fact: **I am a geek: I love sci-fi, animes and games. And I love drawing.** 
+- ⚡ Interesting fact: **I'm a geek: I love sci-fi, animes and games. And I love drawing.** 
   <br>
 
 <!--STATS-->
